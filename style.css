@@ -12,18 +12,32 @@ body{
     justify-content: space-evenly;
    padding-left: 250px;
    padding-right: 250px;
-   padding-bottom: 15px;
-   padding-top: 15px;
+   padding-bottom: 1%;
+   padding-top: 1%;
    font-weight: 600;
 }
 .buscador{
-    display:flex;***seguir por aqui
+    display:flex;
+    justify-content: space-evenly;
+    padding-bottom: 1%;
+   padding-top: 1%;
+   border-bottom: 2px solid rgb(191 191 191);
+   
+   
 }
 .logo{
 
-    width: 15%;
-    height: 15%;
+    width: 10%;
+    height: auto;
 }
 .lupa{
-    border: solid 2px grey;
+    border: solid 2px rgb(191 191 191);
+    width: 500px;
+    padding: 1%;
+    color: rgb(191 191 191);
+    justify-content: space-between;
+    display: flex;
+}
+.lupita{
+    color: black;
 }
