@@ -15,10 +15,15 @@ body{
    padding-bottom: 15px;
    padding-top: 15px;
    font-weight: 600;
-
+}
+.buscador{
+    display:flex;***seguir por aqui
 }
 .logo{
 
     width: 15%;
     height: 15%;
+}
+.lupa{
+    border: solid 2px grey;
 }
